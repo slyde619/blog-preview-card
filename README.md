@@ -27,7 +27,7 @@ To use this component, follow these steps:
 
 #### **Project Link**
 
-You can preview the live project here: [Live Demo](https://)
+You can preview the live project here: [Live Demo](https://previewblogger.netlify.app/)
 
 ### Acknowledgements
 - Frontendmentor
